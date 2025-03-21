@@ -1304,7 +1304,7 @@ button:focus {
     font-size: 3rem;
   }
   .skills-dev {
-    height: 120vh;
+    height: fit-content;
   }
   .main-project {
     height: 130vh;
@@ -1323,7 +1323,7 @@ button:focus {
     font-size: 3rem;
   }
   .skills-dev {
-    height: 100vh;
+    height: fit-content;
   }
   .main-project {
     height: 110vh;
@@ -1341,7 +1341,7 @@ button:focus {
 
 @media (max-width: 361px) and (orientation: portrait) {
   .skills-dev {
-    height:130vh;
+    height:fit-content;
   }
   .main-project {
     height: 130vh;
@@ -1355,7 +1355,7 @@ button:focus {
     font-size: 3rem;
   }
   .skills-dev {
-    height: 90vh;
+    height: fit-content;
   }
   .main-project {
     height: 110vh;
@@ -1376,7 +1376,7 @@ button:focus {
     font-size: 5rem;
   }
   .skills-dev {
-    height: 65vh;
+    height: fit-content;
   }
   .main-project {
     height: 50vh;
@@ -1400,7 +1400,7 @@ button:focus {
     width: 130px;
   }
   .skills-dev {
-    height:80vh;
+    height:fit-content;
   }
   .main-project {
     height: 100vh;
@@ -1563,7 +1563,7 @@ button:focus {
     width: 130px;
   }
   .skills-dev {
-    height:220vh;
+    height:fit-content;
   }
   .main-project {
     height: 250vh;
@@ -1705,7 +1705,7 @@ button:focus {
     width: 130px;
   }
   .skills-dev {
-    height:100vh;
+    height:fit-content;
   }
   .main-project {
     height: 170vh;
