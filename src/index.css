@@ -1307,7 +1307,7 @@ button:focus {
     height: fit-content;
   }
   .main-project {
-    height: 130vh;
+    height: fit-content;
   }
   .footer-main {
     height: 120vh;
@@ -1326,7 +1326,7 @@ button:focus {
     height: fit-content;
   }
   .main-project {
-    height: 110vh;
+    height: fit-content;
   }
   .footer-main {
     height: 120vh;
@@ -1344,7 +1344,7 @@ button:focus {
     height:fit-content;
   }
   .main-project {
-    height: 130vh;
+    height: fit-content;
     background-color: #6f8fa9;
   }
 
@@ -1358,7 +1358,7 @@ button:focus {
     height: fit-content;
   }
   .main-project {
-    height: 110vh;
+    height: fit-content;
   }
   .footer-main {
     height: 90vh;
@@ -1379,7 +1379,7 @@ button:focus {
     height: fit-content;
   }
   .main-project {
-    height: 50vh;
+    height: fit-content;
   }
   .footer-main {
     height: 50vh;
@@ -1403,7 +1403,7 @@ button:focus {
     height:fit-content;
   }
   .main-project {
-    height: 100vh;
+    height: fit-content;
   }
   .footer-main {
     height: 80vh;
@@ -1539,7 +1539,7 @@ button:focus {
 
 @media (min-width: 413px) and (max-width: 541px) and (orientation: portrait) {
   .main-project {
-    height: 150vh;
+    height: fit-content;
   }
   .footer-main {
     height: 130vh;
@@ -1566,7 +1566,7 @@ button:focus {
     height:fit-content;
   }
   .main-project {
-    height: 250vh;
+    height: fit-content;
   }
   .footer-main {
     height: 180vh;
@@ -1708,7 +1708,7 @@ button:focus {
     height:fit-content;
   }
   .main-project {
-    height: 170vh;
+    height: fit-content;
   }
   .footer-main {
     height: 120vh;
